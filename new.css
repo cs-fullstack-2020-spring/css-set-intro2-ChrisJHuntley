@@ -3,11 +3,18 @@
     font-weight: bolder;
 
 }
-html {
-    border: 10px solid gray;
+
+body {
+    border: 8px solid gray;
+    
     
 
 }
 .quote{
-    border-left : solid gray ;
+    margin-left: 2px ;
+    border-left : 5px solid gray ;
+    
+}
+html{
+    border:120px solid white;
 }
