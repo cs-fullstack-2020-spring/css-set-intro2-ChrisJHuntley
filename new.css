@@ -1,0 +1,13 @@
+.date{
+    color: blue;
+    font-weight: bolder;
+
+}
+html {
+    border: 10px solid gray;
+    
+
+}
+.quote{
+    border-left : solid gray ;
+}
